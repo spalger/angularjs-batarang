@@ -1,3 +1,11 @@
+
+# [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en-US) totally works, you should use that.
+
+---
+---
+---
+
+
 # AngularJS Batarang
 
 ## Installing from the Web Store
